@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded', function(){var chat = document.getElementById('chatbtn'); if(chat){ chat.addEventListener('click', function(e){ e.preventDefault(); window.open('https://wa.me/2349084742776','_blank'); }); }});
